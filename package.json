@@ -2,7 +2,7 @@
   "name": "foodplaza",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Bhoomi2403.github.io/foodplaza",
+  "homepage": "https://Bhoomi2403.github.io",
   "dependencies": {
     "@auth0/auth0-react": "^2.2.0",
     "@emotion/react": "^11.11.1",
