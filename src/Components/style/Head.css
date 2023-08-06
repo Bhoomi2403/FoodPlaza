@@ -1,0 +1,55 @@
+.navmenu {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.navmenu li {
+  margin: 0px 20px;
+}
+.navmenu li a {
+  text-decoration: none;
+  color: antiquewhite;
+}
+/* mobile view */
+.mobilenavmenu {
+  list-style: none;
+}
+.molilenavmenu li {
+  margin-top: 20px;
+}
+.mobilenavmenu li a {
+  text-decoration: none;
+  font-size: 1.2rem;
+  color: #2d3436;
+  background-color: #c8d6e5;
+  padding: auto;
+  margin: 6px;
+}
+@media only screen and (max-width: 600px) {
+  .mobilenavmenu li a:hover {
+    background-color: #22b0c3;
+    color: black;
+    cursor: pointer;
+    transition: 0.3s ease-in;
+    
+  }
+}
+.card-details p {
+  color: rgb(57, 23, 23);
+  padding: 2;
+
+  font-size: 20px;
+  justify-content: center;
+  align-items: center;
+}
+.card-details{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+   
+    
+}
+
+
