@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/foodplaza/static/css/main.b32cf6c5.css",
-    "main.js": "/foodplaza/static/js/main.202af696.js",
-    "static/js/787.a61510e7.chunk.js": "/foodplaza/static/js/787.a61510e7.chunk.js",
-    "static/media/masala.jpg": "/foodplaza/static/media/masala.f4dd64f4906d42ddcbdb.jpg",
-    "static/media/pizza3.png": "/foodplaza/static/media/pizza3.e6b8a9087fcd48ee2a04.png",
-    "static/media/pizza1.png": "/foodplaza/static/media/pizza1.654c0ad40f35c0160d07.png",
-    "static/media/rice02.png": "/foodplaza/static/media/rice02.48d89cdbdb222cd32e24.png",
-    "static/media/dessert2.png": "/foodplaza/static/media/dessert2.6d376909141e9dd5fbc4.png",
-    "static/media/banner.jpeg": "/foodplaza/static/media/banner.05892fe97cce26a5d9e5.jpeg",
-    "static/media/chhola.jpg": "/foodplaza/static/media/chhola.a1458ef1370699c23212.jpg",
-    "static/media/paneer.jpg": "/foodplaza/static/media/paneer.f04d2c563fe596463e47.jpg",
-    "static/media/idli.jpg": "/foodplaza/static/media/idli.dc2d98fda6c7a903c64b.jpg",
-    "static/media/gujrati.jpeg": "/foodplaza/static/media/gujrati.77bd2d3baa11e6cf3dcd.jpeg",
-    "static/media/dosa.jpg": "/foodplaza/static/media/dosa.5c938f456ea86779ba13.jpg",
-    "static/media/cart.gif": "/foodplaza/static/media/cart.ce4e9f042bb92d87b30f.gif",
-    "index.html": "/foodplaza/index.html",
-    "main.b32cf6c5.css.map": "/foodplaza/static/css/main.b32cf6c5.css.map",
-    "main.202af696.js.map": "/foodplaza/static/js/main.202af696.js.map",
-    "787.a61510e7.chunk.js.map": "/foodplaza/static/js/787.a61510e7.chunk.js.map"
+    "main.css": "/static/css/main.b32cf6c5.css",
+    "main.js": "/static/js/main.3fbf58c9.js",
+    "static/js/787.a61510e7.chunk.js": "/static/js/787.a61510e7.chunk.js",
+    "static/media/masala.jpg": "/static/media/masala.f4dd64f4906d42ddcbdb.jpg",
+    "static/media/pizza3.png": "/static/media/pizza3.e6b8a9087fcd48ee2a04.png",
+    "static/media/pizza1.png": "/static/media/pizza1.654c0ad40f35c0160d07.png",
+    "static/media/rice02.png": "/static/media/rice02.48d89cdbdb222cd32e24.png",
+    "static/media/dessert2.png": "/static/media/dessert2.6d376909141e9dd5fbc4.png",
+    "static/media/banner.jpeg": "/static/media/banner.05892fe97cce26a5d9e5.jpeg",
+    "static/media/chhola.jpg": "/static/media/chhola.a1458ef1370699c23212.jpg",
+    "static/media/paneer.jpg": "/static/media/paneer.f04d2c563fe596463e47.jpg",
+    "static/media/idli.jpg": "/static/media/idli.dc2d98fda6c7a903c64b.jpg",
+    "static/media/gujrati.jpeg": "/static/media/gujrati.77bd2d3baa11e6cf3dcd.jpeg",
+    "static/media/dosa.jpg": "/static/media/dosa.5c938f456ea86779ba13.jpg",
+    "static/media/cart.gif": "/static/media/cart.ce4e9f042bb92d87b30f.gif",
+    "index.html": "/index.html",
+    "main.b32cf6c5.css.map": "/static/css/main.b32cf6c5.css.map",
+    "main.3fbf58c9.js.map": "/static/js/main.3fbf58c9.js.map",
+    "787.a61510e7.chunk.js.map": "/static/js/787.a61510e7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b32cf6c5.css",
-    "static/js/main.202af696.js"
+    "static/js/main.3fbf58c9.js"
   ]
 }
