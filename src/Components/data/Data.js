@@ -1,13 +1,13 @@
-import chhola from "../images/chhola.jpg";
-import dosa from "../images/dosa.jpg";
-import idli from "../images/idli.jpg";
-import gujarati from "../images/gujrati.jpeg";
-import masala from "../images/masala.jpg";
-import paneer from "../images/paneer.jpg";
-import pizza1 from "../images/pizza1.png";
-import rice02 from "../images/rice02.png";
-import dessert2 from "../images/dessert2.png";
-import pizza3 from "../images/pizza3.png";
+import chhola from ".././images/chhola.jpg";
+import dosa from ".././images/dosa.jpg";
+import idli from ".././images/idli.jpg";
+import gujarati from ".././images/gujrati.jpeg";
+import masala from ".././images/masala.jpg";
+import paneer from ".././images/paneer.jpg";
+import pizza1 from ".././images/pizza1.png";
+import rice02 from ".././images/rice02.png";
+import dessert2 from ".././images/dessert2.png";
+import pizza3 from ".././images/pizza3.png";
 
 export const MenuList = [
   {
